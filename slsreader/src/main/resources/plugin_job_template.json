@@ -1,0 +1,20 @@
+{
+  "name": "slsreader",
+  "parameter": {
+    "host": "",
+    "accessId": "",
+    "accessKey": "",
+    "projectName": "",
+    "logstoreName": "",
+    "fromTime": 0,
+    "toTime": 0,
+    "duration": 3600,
+    "topic": "",
+    "query": "",
+    "column": [
+      "_pod_name_",
+      "content"
+    ],
+    "concurrent": 10
+  }
+}

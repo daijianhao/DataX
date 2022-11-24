@@ -1,0 +1,6 @@
+{
+    "name": "slsreader",
+    "class": "com.alibaba.datax.plugin.reader.slsreader.SlsReader",
+    "description": "useScene: read SLS's logs",
+    "developer": "hifive"
+}
